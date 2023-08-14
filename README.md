@@ -1,8 +1,8 @@
 # California Housing Data Analysis
- This [project](C:\Users\Arpit Gautam\Desktop\GitHub Files\GitHub Files\California-Housing-Data-Analysis\California Housing Data Analysis.ipynb) analyses California housing dataset using Python programming language. The project has been executed on Google Colab.
+ This project analyses California housing dataset using Python programming language. The project has been executed on Google Colab.
  
 # Dataset
- Here is an elaborative explanation of the [dataset](C:\Users\Arpit Gautam\Desktop\GitHub Files\GitHub Files\California-Housing-Data-Analysis\California Housing Dataset.xlsx).
+ Here is an elaborative explanation of the dataset.
 
  **INTRODUCTION**
 
